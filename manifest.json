@@ -1,0 +1,9 @@
+{
+  "name": "GolIA Pronósticos",
+  "short_name": "GolIA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060c16",
+  "theme_color": "#060c16",
+  "icons": [{"src": "https://emojiapi.dev/api/v1/soccer-ball/512.png","sizes": "512x512","type": "image/png"}]
+}
